@@ -50,10 +50,20 @@ export const news = {
         "https://ichef.bbci.co.uk/live-experience/cps/800/cpsprodpb/51B2/production/_121541902_davipinheiro-hospitalsojos-divulgao.jpg",
       newsPath: "https://www.bbc.com/portuguese/brasil-59269268",
     },
+    {
+      id: "5",
+      title:
+        "Áustria prepara lockdown só para cidadãos não vacinados contra covid-19",
+      content:
+        "Hoje, habitantes da Áustria que não se vacinaram já enfrentam obstáculos para frequentar lugares fechados, mas um lockdown direcionado faria com que eles só pudessem sair de casa por motivos essenciais",
+      imageUri:
+        "https://ichef.bbci.co.uk/live-experience/cps/800/cpsprodpb/5002/production/_121528402_ausria.jpg",
+      newsPath: "https://www.bbc.com/portuguese/brasil-59269268",
+    },
   ],
   politic: [
     {
-      id: "5",
+      id: "6",
       title:
         "Como viagens de Bolsonaro e Lula ao exterior antecipam 'queda de braço' eleitoral",
       content:
@@ -63,7 +73,7 @@ export const news = {
       newsPath: "https://www.bbc.com/portuguese/brasil-59314235",
     },
     {
-      id: "6",
+      id: "7",
       title:
         "Aliado de Trump e Bolsonaro, Steve Bannon é liberado após entregar passaporte a autoridades americanas",
       content:
@@ -73,7 +83,7 @@ export const news = {
       newsPath: "https://www.bbc.com/portuguese/internacional-59270676",
     },
     {
-      id: "7",
+      id: "8",
       title:
         "'Mudanças em Cuba são imparáveis', diz líder de manifestação por mais liberdade na ilha",
       content:
@@ -83,7 +93,7 @@ export const news = {
       newsPath: "https://www.bbc.com/portuguese/internacional-59283038",
     },
     {
-      id: "8",
+      id: "9",
       title:
         "Ministro do Meio Ambiente defende mineração e se nega a reconhecer erros por alta de desmatamento",
       content:
@@ -93,7 +103,7 @@ export const news = {
       newsPath: "https://www.bbc.com/portuguese/internacional-59276958",
     },
     {
-      id: "9",
+      id: "10",
       title:
         "8 pontos para entender crise com milhares de imigrantes em fronteira da União Europeia",
       content:
@@ -102,10 +112,19 @@ export const news = {
         "https://ichef.bbci.co.uk/live-experience/cps/800/cpsprodpb/16B5D/production/_121512039_gettyimages-1236476125.jpg",
       newsPath: "https://www.bbc.com/portuguese/internacional-59276098",
     },
+    {
+      id: "11",
+      title: "Como é a vida na cidade onde gasolina já custa R$ 8",
+      content:
+        "Para economizar, cidadãos deixam de usar carro com frequência e recorrem a motos ou até bicicletas.",
+      imageUri:
+        "https://ichef.bbci.co.uk/live-experience/cps/800/cpsprodpb/B92C/production/_121540474_sul3.jpg",
+      newsPath: "https://www.bbc.com/portuguese/brasil-59267991",
+    },
   ],
   technology: [
     {
-      id: "10",
+      id: "12",
       title:
         "Golpe do Pix: hackers contam como enganam vítimas; saiba como se proteger",
       content:
@@ -115,7 +134,7 @@ export const news = {
       newsPath: "https://www.bbc.com/portuguese/brasil-59171217",
     },
     {
-      id: "11",
+      id: "13",
       title:
         "'Aluno dividia celular com dois irmãos': 51% na rede pública ainda não têm acesso a computador com internet",
       content:
@@ -125,7 +144,7 @@ export const news = {
       newsPath: "https://www.bbc.com/portuguese/brasil-59182968",
     },
     {
-      id: "12",
+      id: "14",
       title:
         "A polêmica empresa que 'escuta' tiros nas ruas dos EUA e alerta a polícia",
       content:
@@ -135,7 +154,7 @@ export const news = {
       newsPath: "https://www.bbc.com/portuguese/internacional-59185447",
     },
     {
-      id: "13",
+      id: "15",
       title: "Por que Elon Musk pode vender US$ 21 bi em ações da Tesla",
       content:
         "Após votação no Twitter, o homem mais rico do mundo prometeu se desfazer de 10% de sua participação, mas analistas apontam que ele já teria que fazer isso para pagar impostos de um enorme ganho que terá com papéis da companhia.",
@@ -144,13 +163,22 @@ export const news = {
       newsPath: "https://www.bbc.com/portuguese/geral-59201895",
     },
     {
-      id: "14",
+      id: "16",
       title: "Cidades flutuantes são o futuro da humanidade?",
       content:
         "Assentamentos que flutuam sobre na água têm sido promovidos como uma possível solução para a elevação do nível do mar e às mudanças climáticas.",
       imageUri:
         "https://ichef.bbci.co.uk/live-experience/cps/800/cpsprodpb/17792/production/_121464169_f3df15ed-78d1-476f-a5a3-e167a48bc5f6.png",
       newsPath: "https://www.bbc.com/portuguese/internacional-59141506",
+    },
+    {
+      id: "17",
+      title: "Por que novo nome do Facebook vira piada em Israel",
+      content:
+        "Gigante da rede social se junta a uma série de empresas que caíram em confusões com tradução.",
+      imageUri:
+        "https://ichef.bbci.co.uk/live-experience/cps/800/cpsprodpb/5DED/production/_121254042_23f55903-76c2-4a52-b96e-5c4732ea4308.jpg",
+      newsPath: "https://www.bbc.com/portuguese/geral-59102460",
     },
   ],
 };
