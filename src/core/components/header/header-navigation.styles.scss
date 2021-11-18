@@ -1,3 +1,26 @@
+@import "../../styles/global.styles.scss";
+
 .container-fluid {
   padding: 24px 16px;
+}
+
+.health-color {
+  background-color: $health;
+}
+
+.politic-color {
+  background-color: $politic;
+}
+
+.technology-color {
+  background-color: $technology;
+}
+
+.general-color {
+  background-color: $grey;
+}
+
+.navbar-brand {
+  font-weight: bold;
+  color: #ffffff;
 }

@@ -1,0 +1,18 @@
+@import "../../core/styles/global.styles.scss";
+
+.home-container {
+  padding: 24px;
+
+  .outdoor {
+    padding: 24px;
+    background-color: $grey;
+    border-radius: 8px;
+
+    color: #ffffff;
+
+    p {
+      font-size: 20px;
+      color: $border;
+    }
+  }
+}

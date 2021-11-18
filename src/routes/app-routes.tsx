@@ -6,7 +6,7 @@ import PoliticContainer from "../pages/politic/politic.container";
 import TechnologyContainer from "../pages/technology/technology.container";
 import { IConfigRoutes } from "../types/general.types";
 
-export default function AppRoutes() {
+export default function NewsAppRoutes() {
   const configRoutes: IConfigRoutes[] = [
     {
       route: "/",

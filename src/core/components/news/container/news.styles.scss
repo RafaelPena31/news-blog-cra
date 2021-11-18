@@ -1,0 +1,11 @@
+.news {
+  display: flex;
+  justify-content: space-between;
+  flex-flow: row wrap;
+
+  padding: 24px 56px;
+
+  &-card {
+    margin-bottom: 40px;
+  }
+}
